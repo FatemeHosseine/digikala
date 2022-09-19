@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(230, 230, 230);
+}
+.carousel-inner img{
+    height: 300px !important;
+}.carousel-indicators button{
+    width: 10px !important;
+    height: 10px !important;
+    border-radius: 100% !important;
+
+
+}
+#search{
+    width: 600px !important;
+    background-color: rgb(230, 230, 230) !important;
+
+}
+#row{
+    background-color: rgb(220, 250, 250) !important;
+
+
+}
